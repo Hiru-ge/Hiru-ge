@@ -8,6 +8,8 @@ When I built my first web app in my third year of undergrad, I discovered how sa
 
 I write about tech on [Qiita](https://qiita.com/Hiruge) and about everyday efficiency and personal topics on [Note](https://note.com/hiruge) (both in Japanese).
 
+...And I love coffee ☕️
+
 ## Tech Stacks
 
 [![Skills](https://skillicons.dev/icons?i=go,ts,py,ruby,vscode,docker,gcp,aws&perline=8)](https://skillicons.dev)
